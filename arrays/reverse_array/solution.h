@@ -1,0 +1,1 @@
+void reverse_array(array_t*);
