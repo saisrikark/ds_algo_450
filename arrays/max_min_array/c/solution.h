@@ -1,0 +1,1 @@
+void print_array_max_min_ele(array_t*);
