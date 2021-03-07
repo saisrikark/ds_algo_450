@@ -1,0 +1,1 @@
+void reverse_linked_list(linked_list_t*);

@@ -1,0 +1,1 @@
+void find_duplicates(string_t*);
